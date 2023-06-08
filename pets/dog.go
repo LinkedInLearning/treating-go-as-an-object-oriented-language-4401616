@@ -39,7 +39,7 @@ func (d Dog) GiveAttention(activity string) string {
 	return fmt.Sprintf("%s loves attention, %s will cause him to %s", d.Name, activity, response)
 }
 
-func NewDog(name, color, breed string, lastSlept time.Time) Dog {
+func NewDog(name, color, breed string, lastSlept time.Time) Pet {
 	return Dog{
 		Name:      name,
 		Color:     color,
