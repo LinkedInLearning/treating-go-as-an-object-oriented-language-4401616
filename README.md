@@ -1,9 +1,10 @@
 # Treating Go as an Object-Oriented Language
-This is the repository for the LinkedIn Learning course `Treating Go as an Object-Oriented Language`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Treating Go as an Object-Oriented Language. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Treating Go as an Object-Oriented Language][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+Did you know that treating Go like an object-oriented programming language can allow you to create more functional and more powerful behavior? Join instructor Frank P Moley III in this hands-on, interactive course to practice advancing your skills in Go, the popular, statically typed programming language. This course includes Code Challenges powered by CoderPad. Code Challenges are interactive coding exercises with real-time feedback, so you can get hands-on coding practice to advance your coding skills. Frank helps you boost your skills as a Go programmer with specific, coding challenges that treat Go like an object-oriented language. Practice creating and working with structs, synthesizing classes, and leveraging encapsulation, composition, and polymorphism, building object-oriented behavior as you go.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -28,8 +29,16 @@ To resolve this issue:
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Frank P Moley III 
+                            
+Software and Security Architect
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/frank-p-moley-iii).
+
+[lil-course-url]: https://www.linkedin.com/learning/treating-go-as-an-object-oriented-language?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFhnYyDFRHL1Q/learning-public-crop_675_1200/0/1692901438014?e=2147483647&v=beta&t=gppwbhxrqLw3UjGmI5Oj4MdSfBqwCC4RSy7rqkKPweM
 
